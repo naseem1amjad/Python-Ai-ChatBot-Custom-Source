@@ -1,0 +1,11 @@
+#look at these to persist the db. https://github.com/hwchase17/langchain/issues/2022
+#https://github.com/hwchase17/langchain/issues/2491
+
+# !pip install langchain
+# !pip install openai
+# !pip install chromadb
+# !pip install tiktoken
+# !pip install unstructured
+# !pip install pytesseract
+
+pip install pypdf
